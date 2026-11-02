@@ -53,15 +53,15 @@ Students will also learn to apply CSS Modules for styling and building reusable 
 
 This module requires an existing Express API with JWT Authentication set up.
 
-🟢 [Express API starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/express-api-hoot-back-end-solution)
+🟢 [Express API starter code](https://github.com/ga-curriculum/express-api-hoot-back-end-solution)
 
 This module also uses an existing template equip with forms for JWT authentication in a React application.
 
-🟢 [React JWT Auth Template](https://git.generalassemb.ly/modular-curriculum-all-courses/react-jwt-auth-template)
+🟢 [React JWT Auth Template](https://github.com/ga-curriculum/react-jwt-auth-template)
 
 ### Solution code
 
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/react-hoot-front-end-solution)
+🏁 [Solution code](https://github.com/ga-curriculum/react-hoot-front-end-solution)
 
 ### Course landing pages
 
