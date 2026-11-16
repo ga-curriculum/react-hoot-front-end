@@ -37,7 +37,7 @@ Once imported, a specific class can be applied to an element like so:
 
 Next, we'll add some visual assets to the app. These assets include a logo, decorative background images, and iconography for UI elements.
 
-The assets can be found in [React Hoot Front-end Assets](https://git.generalassemb.ly/modular-curriculum-all-courses/react-hoot-front-end-assets).
+The assets can be found in [React Hoot Front-end Assets](https://github.com/ga-curriculum/react-hoot-front-end-assets).
 
 To add these to your project, first **make sure you are in your project's root directory**.
 
@@ -46,7 +46,7 @@ To add these to your project, first **make sure you are in your project's root d
 Next, run the following command in your terminal:
 
 ```bash
-git clone https://git.generalassemb.ly/modular-curriculum-all-courses/react-hoot-front-end-assets.git ./src/assets/images
+git clone https://github.com/ga-curriculum/react-hoot-front-end-assets.git ./src/assets/images
 rm -rf ./src/assets/images/.git
 ```
 
